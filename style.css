@@ -46,3 +46,19 @@ img {
 .navbar a:hover {
   text-decoration: underline;
 }
+.image-container {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+.image-container figcaption {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #666666;
+  font-style: italic;
+}
