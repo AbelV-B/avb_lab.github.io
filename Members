@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Members</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <nav class="navbar">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="Members.html">Members</a></li>
+      </ul>
+    </nav>
+    
+    <h1>About Me</h1>
+    <p>This is members page content.</p>
+  </body>
+</html>
